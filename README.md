@@ -44,7 +44,7 @@
   <a href="discordapp.com/users/jitesh.07#7254" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
-  <a href="https://www.youtube.com/channel/UCC0opS0KEhAYFbb2jtzyvHw" target="_blank">
+  <a href="https://www.youtube.com/channel/UCs3hHoSvp8W7NO5z2gqZz8Q" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
   <a href="jiteshkumardj@gmail.com" target="_blank">
