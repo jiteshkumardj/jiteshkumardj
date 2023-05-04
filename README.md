@@ -34,6 +34,25 @@
 
 ###
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/jitesh-kumar-7b6a49215/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/JiteshK30205963" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitch&label=&color=9146FF&logoColor=&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
+  <a href="discordapp.com/users/jitesh.07#7254" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCC0opS0KEhAYFbb2jtzyvHw" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
+  </a>
+  <a href="jiteshkumardj@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+</div>
+###
+
 <!--<h1>Hi, I am Jitesh! Great to see you here! 👋</h1>
 
 - 🌱 I’m currently exploring 
@@ -44,6 +63,6 @@
 jiteshkumardj/jiteshkumardj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!--<br/>if (today.self > yesterday.self) {
+<br/>if (today.self > yesterday.self) {
    <br/>print("You are on the right path")
     <br/>}
