@@ -51,8 +51,20 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
+
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/jiteshkumardj/count.svg?"  />
+</div>
+
+###
+
+<!--<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Sayantaniwrites&theme=gruvbox_light" alt="Layout with last medium posts"  />
+</div>
+
+###
 <!--<h1>Hi, I am Jitesh! Great to see you here! 👋</h1>
 
 - 🌱 I’m currently exploring 
