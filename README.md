@@ -79,4 +79,4 @@ You can click the Preview link to take a look at your changes.
    <br/>print("You are on the right path")
     <br/>}
 
-[![An image of @jitesh07 Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jitesh07)](https://holopin.io/@jitesh07)
+[![An image of @kvofficialx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kvofficialx)](https://holopin.io/@jitesh07)
