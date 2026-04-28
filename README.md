@@ -1,82 +1,75 @@
-<br clear="both">
-<h1 align="center">Hi, I am Jitesh! Great to see you here! 👋</h1>
-
-###
-
 <div align="center">
-  <img  width="180" height="200" src="https://media.giphy.com/media/1qGaYAEAk7eOA/giphy.gif"  />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Jitesh+Kumar+%F0%9F%91%8B;Backend+%26+Cloud+Engineer;Go+%7C+Kubernetes+%7C+DevOps;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiteshkumardj&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=jiteshkumardj" height="150" alt="languages graph"  />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiteshkumardj&theme=radical&hide_border=true" alt="streakstats" height="150" align="center" />
+### About Me
+
+Backend and cloud infrastructure engineer focused on distributed systems and Go. I contribute to production open-source projects and build cloud-native tools.
+
+- Building **[CLOUDBYOG](https://github.com/jiteshkumardj/CLOUDBYOG)** — open-source cloud gaming platform (Go + Next.js)
+- OSS contributor to **Kubernetes** (sig-network) and **woodpecker-ci**
+- Based in Chandigarh, India
+
+---
+
+### Open Source Contributions
+
+| Project | Contribution | Status |
+|---|---|---|
+| [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes/pull/138630) | e2e tests for NetworkPolicy north-south traffic (NodePort + LoadBalancer) — sig-network | Open |
+| [woodpecker-ci/autoscaler](https://github.com/woodpecker-ci/autoscaler/pull/598) | Equinix Metal cloud provider with mock-based test suite | Open |
+
+---
+
+### Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="Go" title="Go" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" title="Kubernetes" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" title="Redis" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="AWS" title="AWS" />
 </div>
 
-###
+---
+
+### GitHub Stats
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" width="42" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" width="42" alt="bitbucket logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" width="42" alt="firebase logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" width="42" alt="canva logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jiteshkumardj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiteshkumardj&theme=tokyonight&hide_border=true" height="160" alt="streak" />
 </div>
 
-###
-
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiteshkumardj&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="140" alt="languages" />
+</div>
+
+---
+
+### Connect
+
+<div align="left">
   <a href="https://www.linkedin.com/in/jitesh-kumar-7b6a49215/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
+  <a href="mailto:jiteshkumardj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;
   <a href="https://twitter.com/JiteshK30205963" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitch&label=&color=9146FF&logoColor=&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  </a>
-  <a href="discordapp.com/users/jitesh.07#7254" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCs3hHoSvp8W7NO5z2gqZz8Q" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
-  </a>
-  <a href="jiteshkumardj@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jiteshkumardj/count.svg?"  />
-</div>
-
-###
-
-<!--<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Sayantaniwrites&theme=gruvbox_light" alt="Layout with last medium posts"  />
-</div>
-
-###
-<!--<h1>Hi, I am Jitesh! Great to see you here! 👋</h1>
-
-- 🌱 I’m currently exploring 
-- 📫 How to reach me: jiteshkumardj@gmail.com
-- 😄 Pronouns: HE/HIM
-
-<!---
-jiteshkumardj/jiteshkumardj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<br/>if (today.self > yesterday.self) {
-   <br/>print("You are on the right path")
-    <br/>}
-
-[![An image of @kvofficialx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kvofficialx)](https://holopin.io/@jitesh07)
