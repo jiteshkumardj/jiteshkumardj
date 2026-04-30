@@ -1,34 +1,37 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,20:00D4FF,60:7C3AED,100:EC4899&height=280&section=header&text=Jitesh%20Kumar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=cloud%20engineer%20%E2%80%A2%20backend%20%E2%80%A2%20open%20source&descAlignY=62&descSize=18&stroke=00D4FF&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,30:00D4FF,70:7C3AED,100:EC4899&height=220&section=header&text=Jitesh%20Kumar&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=cloud%20engineer%20%E2%80%A2%20backend%20%E2%80%A2%20open%20source&descAlignY=58&descSize=18" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=780&lines=migrated+on-prem+%E2%86%92+AWS+end-to-end%2C+zero+downtime+%F0%9F%9A%80;EKS+%2B+Karpenter+%3D+25%25+less+EC2+spend;REST+%2B+gRPC+%2F+Protobuf+in+Go%2C+production-grade;if+it+doesn't+scale%2C+it+doesn't+ship+%E2%9C%93" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=780&lines=migrated+on-prem+%E2%86%92+AWS+end-to-end%2C+zero+downtime;EKS+%2B+Karpenter+%3D+25%25+less+EC2+spend;REST+%2B+gRPC+%2F+Protobuf+in+Go%2C+production-grade;if+it+doesn%27t+scale%2C+it+doesn%27t+ship" />
 </div>
-
-<br/>
 
 ---
 
-<img align="right" src="https://media.tenor.com/KB77obLfolYAAAAM/luffy-luffy-gear-5.gif" width="260" />
+<table><tr>
+<td valign="top" width="60%">
 
-## `whoami`
+<h2><code>whoami</code></h2>
 
-```go
-var me = struct {
-	name, location string
-	stack, certs   []string
-	vibe           string
+<pre><code>var me = struct {
+    name, location string
+    stack, certs   []string
+    vibe           string
 }{
-	name:     "Jitesh Kumar",
-	location: "Chandigarh, India 🇮🇳",
-	stack:    []string{"Go", "Java", "AWS", "K8s", "Terraform"},
-	certs:    []string{"AWS SAA", "AWS SysOps", "Terraform Assoc"},
-	vibe:     "if it doesn't scale, it doesn't ship",
-}
-```
+    name:     "Jitesh Kumar",
+    location: "Chandigarh, India",
+    stack:    []string{"Go", "Java", "AWS", "K8s", "Terraform"},
+    certs:    []string{"AWS SAA", "AWS SysOps", "Terraform Assoc"},
+    vibe:     "if it doesn't scale, it doesn't ship",
+}</code></pre>
 
-<br clear="right"/>
+</td>
+<td valign="top" align="center" width="40%">
+
+<img src="https://media.giphy.com/media/TUOSneOOtImPurKwph/giphy.gif" width="250" />
+
+</td>
+</tr></table>
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
