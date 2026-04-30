@@ -1,126 +1,129 @@
 <div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:7928CA&height=200&section=header&text=Jitesh%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%7C%20Cloud%20%7C%20DevOps%20Engineer&descAlignY=58&descSize=20)
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:050510,20:00D4FF,60:7C3AED,100:EC4899&height=300&section=header&text=Jitesh%20Kumar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=cloud%20engineer%20%E2%80%A2%20backend%20%E2%80%A2%20open%20source&descAlignY=62&descSize=18&stroke=00D4FF&strokeWidth=2" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=2%2B+Years+of+Backend+%26+Cloud+Engineering;Building+Distributed+Systems+with+Go;Kubernetes+%7C+Docker+%7C+Cloud+Infrastructure;Open+Source+Contributor+%E2%86%92+Kubernetes+%7C+woodpecker-ci" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=migrated+on-prem+%E2%86%92+AWS+end-to-end%2C+zero+downtime;EKS+%2B+Karpenter+%3D+25%25+less+EC2+spend+%F0%9F%9A%80;REST+%2B+gRPC+%2F+Protobuf+in+Go%2C+production-grade;terraform+plan+%7C+terraform+apply+%7C+ship+it;AWS+Certified+%C3%97+2+%7C+HashiCorp+Terraform+Associate;if+it+doesn't+scale%2C+it+doesn't+ship" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jiteshkumardj&color=00D4FF&style=flat-square&label=views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/jiteshkumardj?color=7C3AED&style=flat-square&logo=github&label=followers" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/EPAM_Systems-Consultant-EC4899?style=flat-square" />
 </div>
 
 <br/>
 
 ---
 
-## 🧑‍💻 About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+
+## `whoami`
 
 ```go
 package main
 
-import "fmt"
-
 type Engineer struct {
-    Name        string
-    Role        string
-    Experience  string
-    Location    string
-    Focus       []string
-    OpenSource  []string
+	Name      string
+	Company   string
+	Role      string
+	Location  string
+	Languages []string
+	Backend   []string
+	Certs     []string
+	Currently string
+	Vibe      string
 }
 
-func main() {
-    me := Engineer{
-        Name:       "Jitesh Kumar",
-        Role:       "Backend & Cloud Engineer",
-        Experience: "2+ Years",
-        Location:   "Chandigarh, India 🇮🇳",
-        Focus:      []string{"Distributed Systems", "Cloud Infrastructure", "DevOps"},
-        OpenSource: []string{"kubernetes/kubernetes", "woodpecker-ci/autoscaler"},
-    }
-    fmt.Printf("Building things that scale → %+v\n", me)
+var me = Engineer{
+	Name:      "Jitesh Kumar",
+	Company:   "EPAM Systems",
+	Role:      "Cloud Consultant",
+	Location:  "Chandigarh, India 🇮🇳",
+	Languages: []string{"Go", "Java", "Bash"},
+	Backend:   []string{"REST APIs", "gRPC + Protobuf", "core Go"},
+	Certs:     []string{"AWS SAA", "AWS SysOps Admin", "Terraform Assoc"},
+	Currently: "enterprise on-prem → AWS + EKS modernisation",
+	Vibe:      "if it doesn't scale, it doesn't ship",
 }
 ```
 
----
-
-## 🚀 Open Source Contributions
+<br clear="right"/>
 
 <div align="center">
-
-| Project | Contribution | Status |
-|:---|:---|:---:|
-| [![Kubernetes](https://img.shields.io/badge/kubernetes-kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://github.com/kubernetes/kubernetes/pull/138630) | e2e tests for NetworkPolicy north-south traffic blocking (NodePort + LoadBalancer) — **sig-network** | ![Open](https://img.shields.io/badge/PR-Open-brightgreen) |
-| [![woodpecker](https://img.shields.io/badge/woodpecker--ci-autoscaler-F4A623?logo=woodpecker-ci&logoColor=white)](https://github.com/woodpecker-ci/autoscaler/pull/598) | Equinix Metal cloud provider with `DevicesAPI` interface & full mock test suite | ![Open](https://img.shields.io/badge/PR-Open-brightgreen) |
-
+  <img src="https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS_SysOps_Admin-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/HashiCorp_Terraform-Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </div>
 
 ---
 
-## 🛠️ Tech Stack
-
-#### Languages & Frameworks
-<div align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D4FF,100:7C3AED&height=3&section=header" width="100%" />
 </div>
 
-#### Cloud & Infrastructure
-<div align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Equinix_Metal-ED2224?style=for-the-badge&logo=equinix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" />
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+## `stack`
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=go,java,bash,rust&theme=dark&perline=8" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,jenkins,docker,kubernetes,helm,github&theme=dark&perline=8" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=linux,postgres,mongodb,prometheus,grafana&theme=dark&perline=8" />
 </div>
 
-#### Containers & Orchestration
-<div align="left">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-  <img src="https://img.shields.io/badge/containerd-575757?style=for-the-badge&logo=containerd&logoColor=white" />
-</div>
+<br/>
 
-#### DevOps & Observability
-<div align="left">
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
-
-#### Databases & Messaging
-<div align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+<div align="center">
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Protobuf-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Karpenter-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_MGN-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Backup-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fluent_Bit-49BDA5?style=flat-square&logo=fluentd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Karpenter-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Systems_Manager-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:EC4899&height=3&section=header" width="100%" />
+</div>
+
+## `numbers`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiteshkumardj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiteshkumardj&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jiteshkumardj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiteshkumardj&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiteshkumardj&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiteshkumardj&theme=tokyonight&hide_border=true" width="60%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jiteshkumardj&theme=tokyonight&no-frame=true&column=7&margin-w=6" width="95%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jiteshkumardj&theme=tokyo-night&hide_border=true&area=true&area_color=00D4FF&color=00D4FF&line=7C3AED&point=EC4899" width="95%" />
 </div>
 
 ---
 
-## 🔗 Connect
+## `find me`
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jitesh-kumar-7b6a49215/" target="_blank">
+  <a href="https://www.linkedin.com/in/jitesh-kumar-7b6a49215/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -128,15 +131,13 @@ func main() {
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/JiteshK30205963" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://twitter.com/JiteshK30205963">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,50:00D4FF,100:0D1117&height=120&section=footer)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:7C3AED,100:00D4FF&height=130&section=footer&reversal=true" />
 </div>
